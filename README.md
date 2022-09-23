@@ -1,6 +1,6 @@
 # How Does Google Voice Work?
 
-[![how does google voice work](redd.png)](https://github.com/coreencode/how.does.google.voice.work)
+[![how does google voice work](redd.png)](https://icncomputer.com/how-does-google-voice-work/)
 
 
 At its very core, Google Voice uses VoIP to make calls over the internet. It uses packets to transfer your voice from one device to the other through the internet. The IP allows for accurate data transfers from one device to the desired call destination.
